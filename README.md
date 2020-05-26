@@ -1,10 +1,10 @@
 # MeanCourse
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
+Social Network app, worked in Angular and Node.js (Express). Database MongoDB.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files. To run backend server run `npm run start:server`.
 
 ## Code scaffolding
 
